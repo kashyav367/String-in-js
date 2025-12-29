@@ -9,3 +9,4 @@ function booleanToString(bool){
 }
 let bool = 0;
 console.log(booleanToString(bool));
+
