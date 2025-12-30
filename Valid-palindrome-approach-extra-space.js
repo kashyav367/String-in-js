@@ -13,3 +13,4 @@ function validPalindrome(s){
 
 let s = "A man, a plan, a canal: Panama"
 console.log(validPalindrome(s));
+
